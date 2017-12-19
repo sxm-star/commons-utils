@@ -1,0 +1,17 @@
+*.jar
+*.war
+*.class
+*.lock
+*.DS_Store
+*.out
+target/
+*.iml
+*.ipr
+*.iws
+*.bak
+.idea/
+logs/
+*.log
+/bin
+*/bin
+*.lnk
